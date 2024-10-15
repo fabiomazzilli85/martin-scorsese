@@ -34,6 +34,8 @@ const filmScorsese = [
     "Toro Scatenato",
     "Taxi Driver",
     "Toro Scatenato",
+    "Casinò",
+    "The Irishman"
     "The Wolf of Wall Street",
   ];
   
